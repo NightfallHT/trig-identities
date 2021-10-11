@@ -9,7 +9,7 @@ $$\sin  (x  )+\cos  (x  )=0$$
 $$\sin  (x  )+\sin  (\frac{\pi}{2}-x  )=0$$
 $$2\sin  (\frac{x+\frac{\pi}{2}-x}{2}  )\cos  (\frac{x-  (\frac{\pi}{2}-x  )}{2}  ) = 0$$
 $$2\sin  (\frac{\pi}{4}  )\cos  (\frac{2x-\frac{\pi}{2}}{2}  ) = 0$$
-$$(sprzeczne) \sin  (\frac{\pi}{4}  )=0 \vee x-\frac{\pi}{4}=\frac{\pi}{2}+2k\pi$$
+$$\sin  (\frac{\pi}{4}  )=0 \vee x-\frac{\pi}{4}=\frac{\pi}{2}+2k\pi$$
 $$x=\frac{3\pi}{4}+k\pi$$
 %%
 $$sin  \ (x  \ )+cos  \ (x  \ )=0$$
@@ -21,7 +21,7 @@ $$sin\ (x\  )+cos\ (x\  )=0$$
 $$sin\ (x\  )+sin\ (\frac{\pi}{2}-x\  )=0$$
 $$sin\ (x\  )=-sin\ (\frac{\pi}{2}-x\  )$$
 $$sin\ (x\  )=sin\ (x-\frac{\pi}{2}\  )$$
-$$(sprzeczne) x=x-\frac{\pi}{2}+2k\pi\vee2x=\frac{3\pi}{2}-x+2k\pi$$
+$$x=x-\frac{\pi}{2}+2k\pi\vee2x=\frac{3\pi}{2}-x+2k\pi$$
 $$2x=\frac{3\pi}{2}+2k\pi$$
 $$x=\frac{3\pi}{4}+k\pi$$
 %%
