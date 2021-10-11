@@ -1,0 +1,53 @@
+$$\cos x + \sin x = 0$$
+$$\sin^2x + \cos^2x + 2\sin x\cos x = 0$$
+$$1+\sin x = 0$$
+$$\sin x = -1$$
+$$2x = -\frac{\pi}{2} + 2k\pi$$
+$$x = -\frac{\pi}{4} + k\pi$$
+%%
+$$\sin  (x  )+\cos  (x  )=0$$
+$$\sin  (x  )+\sin  (\frac{\pi}{2}-x  )=0$$
+$$2\sin  (\frac{x+\frac{\pi}{2}-x}{2}  )\cos  (\frac{x-  (\frac{\pi}{2}-x  )}{2}  ) = 0$$
+$$2\sin  (\frac{\pi}{4}  )\cos  (\frac{2x-\frac{\pi}{2}}{2}  ) = 0$$
+$$(sprzeczne) \sin  (\frac{\pi}{4}  )=0 \vee x-\frac{\pi}{4}=\frac{\pi}{2}+2k\pi$$
+$$x=\frac{3\pi}{4}+k\pi$$
+%%
+$$sin  \ (x  \ )+cos  \ (x  \ )=0$$
+$$cos  \ (x  \ )=-sin  \ (x  \ )$$
+$$x  \ =  \ -  \frac{  \pi}{2}  \ +  \ 2k  \pi  \   \vee x  \ =  \   \frac{3  \pi}{2}  \ +  \ 2k  \pi$$
+$$x=-  \frac{  \pi}{4}+k  \pi$$
+%%
+$$sin\ (x\  )+cos\ (x\  )=0$$
+$$sin\ (x\  )+sin\ (\frac{\pi}{2}-x\  )=0$$
+$$sin\ (x\  )=-sin\ (\frac{\pi}{2}-x\  )$$
+$$sin\ (x\  )=sin\ (x-\frac{\pi}{2}\  )$$
+$$(sprzeczne) x=x-\frac{\pi}{2}+2k\pi\vee2x=\frac{3\pi}{2}-x+2k\pi$$
+$$2x=\frac{3\pi}{2}+2k\pi$$
+$$x=\frac{3\pi}{4}+k\pi$$
+%%
+$$sin\ (x \ )+cos \ (x \ )=0$$
+$$sin^2 \ (x \ )+2sin \ (x \ )cos \ (x \ )+cos^2 \ (x \ )=0$$
+$$1+2sin \ (x \ )cos \ (x \ )=0$$
+$$sin \ (2x \ )=-1$$
+$$2x=- \frac{ \pi}{2}+2k \pi \vee2x= \frac{3 \pi}{2}+2k \pi$$
+$$x=- \frac{ \pi}{4}+k \pi \vee x= \frac{3 \pi}{4}+k \pi$$
+$$x=- \frac{ \pi}{4}+k \pi$$
+%%
+$$\frac{\sin x + \cos x}{\cos x} = \frac{0}{\cos x}$$
+$$(\sin x + \cos x) \cdot \sec x = \frac{0}{\cos x} $$
+$$(\sin x + \cos x) \cdot \frac{1}{\cos x} = \frac{0}{\cos x} $$
+$$\sin x (\frac{1}{\cos x}) + \cos x (\frac{1}{\cos x}) = \frac{0}{\cos x}$$
+$$\frac{\sin x}{\cos x} + \cos x (\frac{1}{\cos x}) = \frac{0}{\cos x}$$
+$$\frac{\sin x}{\cos x} + 1 = \frac{0}{\cos x}$$
+$$\tan x + 1 = \frac{0}{\cos x}$$
+$$\tan x + 1 = \frac{0}{1}\cdot\frac{1}{\cos x}$$
+$$\tan x + 1 = \frac{0}{1}\cdot\sec x$$
+$$\tan x + 1 = 0\cdot\sec x$$
+$$\tan x + 1 = 0$$
+$$\tan x = -1$$
+$$ x = \arctan -1$$
+$$x = -\frac{\pi}{4}$$
+$$x = -\frac{\pi}{4} - \pi$$
+$$x = \frac{3\pi}{4}$$
+$$x=-\frac{ 3\pi}{4}+k \pi$$
+
